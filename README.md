@@ -130,6 +130,13 @@ Once the flash is complete connect a battery to your Micro Tank, wait a few mome
 You should now be connected to your Micro Tank and you or anyone with that token will be able to control it from anywhere in the world!!
 Enjoy!
 
+# SPECIAL THANKS
+
+- Matt Marciniak for annoying me until I built these. They actually turned out pretty great, so thank him!
+- Whoever made the first micro tanks. They are pretty cool. Happy to put your name here if you let me know :)
+- RemoteXY for such a cool app that allows all this to be possible without people touching my network
+- DroneJunkie, Bowman and Tristan for all help and support in field testing these.
+
 
 # CONTACTS
 
