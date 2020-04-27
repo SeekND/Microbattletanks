@@ -1,6 +1,8 @@
 /*
    -- Micro Tank --
 
+   by Carlos Costa (SeekNDFPV @ youtube)
+   
    This source code of graphical user interface
    has been generated automatically by RemoteXY editor.
    To compile this code using RemoteXY library 2.4.3 or later version
