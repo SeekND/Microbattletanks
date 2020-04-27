@@ -33,7 +33,9 @@ You will need the following electronic parts:
 - 1x ESP8266 (https://www.banggood.com/Geekcreit-NodeMcu-Lua-WIFI-Internet-Things-Development-Board-Based-ESP8266-CP2102-Wireless-Module-p-1097112.html)
 - 1x 5v polulu boost > 
 - 2x 9g servos (you will have to modify these) > 
-- 1s battery (recommend 300mha battery) > 
+- 1x IR receiver > https://www.banggood.com/10pcs-Universal-IR-Infrared-Receiver-Head-With-Iron-Shell-TL1838-VS1838B-1838-38Khz-p-1211280.html
+- 1x 940nm IR Infrared Diode (*just need the clear one*) > https://www.banggood.com/10pcs-5mm-940nm-IR-Infrared-Diode-Launch-Emitter-Receive-Receiver-LED-p-1099984.html
+- 1s battery (recommend 200mha above battery) > 
 - battery connector (recommend mxcp connector) > https://www.dronejunkie.co.uk/mylipo-lead-and-socket-for-mcpxpw-type-lipos
 
 
@@ -43,8 +45,8 @@ You will need the following electronic parts:
 - Hot glue
 - 3D printed micro tank (search Tiny Trak in Thingiverse)
 
-*You can also install an FPV camera by simply connecting an AIO micro FPV camera to a 5V output (like the polulu for example). 
-*Make sure your camera CAN connect to 5v.
+*You can also install an FPV camera by simply connecting an AIO micro FPV camera to a 5V output (like the polulu for example).*
+*Make sure your camera CAN connect to 5v.*
 
 
 # ASSEMBLY
@@ -70,6 +72,7 @@ Once the servos and the ESP8266 are in place you can start soldering in all the 
 * Extend 8cm with 28awg wire and connect middle leg of the IR receiver (-) to polulu OUT NEG (-)
 * Extend 8cm with 28awg wire and connect left leg of the IR receiver (+)  to polulu OUT POS (+)
 * Extend 8cm with 28awg wire and connect right leg of the IR receiver (signal) to ESP8266 D5
+* Remove IR metalic cover for a better exposure of the receiver.
 
 * Extend 8cm with 28awg wire and connect longer leg of the IR led (+) to ESP8266 D2
 * Extend 8cm with 28awg wire and connect shorter leg of the IR receiver (-) to ESP8266 GROUND closest to D2
