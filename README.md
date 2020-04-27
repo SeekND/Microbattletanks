@@ -28,7 +28,7 @@ For your benefit I made two seperate codes, one for controlling the Micro Tank l
 
 ## ELECTRONICS
 
-You will need the following electronic parts as mentioned in Thingyverse*
+You will need the following electronic parts:
 
 - 1x ESP8266 (https://www.banggood.com/Geekcreit-NodeMcu-Lua-WIFI-Internet-Things-Development-Board-Based-ESP8266-CP2102-Wireless-Module-p-1097112.html)
 - 1x 5v polulu boost > 
