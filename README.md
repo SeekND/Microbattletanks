@@ -26,12 +26,6 @@ For your benefit I made two seperate codes, one for controlling the Micro Tank l
 * Just as a note, I have 0 involvement with this company. I just found it to be a really great app for what I wanted to do :)
 
 
-## PRINT THE PARTS
-
-* 3D print of the Carlandoo parts. 
-* Follow the guide in https://www.thingiverse.com/thing:3928745
-
-
 ## ELECTRONICS
 
 You will need the following electronic parts as mentioned in Thingyverse*
