@@ -41,10 +41,15 @@ You will need the following electronic parts as mentioned in Thingyverse*
 - 2x 9g servos (you will have to modify these) > 
 - 1s battery (recommend 300mha battery) > 
 - battery connector (recommend mxcp connector) > https://www.dronejunkie.co.uk/mylipo-lead-and-socket-for-mcpxpw-type-lipos
-- 1x servo tester
 
-*You can also install an FPV camera by simply connecting an AIO micro FPV camera to the polulu. 
-*Make sure your camera can connect to 5v
+# Tools
+- 1x servo tester
+- Super glue
+- Hot glue
+- 3D printed micro tank (search Tiny Trak in Thingiverse)
+
+*You can also install an FPV camera by simply connecting an AIO micro FPV camera to a 5V output (like the polulu for example). 
+*Make sure your camera CAN connect to 5v.
 
 Start by placing the ESP8266 in the bottom part of the base body of the Micro Tank.
 I prefer putting the USB facing backwards so it's easier to install the code afterwards
