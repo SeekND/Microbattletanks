@@ -32,7 +32,7 @@ For your benefit I made two seperate codes, one for controlling the Micro Tank l
 * Follow the guide in https://www.thingiverse.com/thing:3928745
 
 
-## BUILD THE ELECTRONICS
+## ELECTRONICS
 
 You will need the following electronic parts as mentioned in Thingyverse*
 
@@ -42,7 +42,8 @@ You will need the following electronic parts as mentioned in Thingyverse*
 - 1s battery (recommend 300mha battery) > 
 - battery connector (recommend mxcp connector) > https://www.dronejunkie.co.uk/mylipo-lead-and-socket-for-mcpxpw-type-lipos
 
-# Tools
+
+# TOOLS
 - 1x servo tester
 - Super glue
 - Hot glue
@@ -51,6 +52,8 @@ You will need the following electronic parts as mentioned in Thingyverse*
 *You can also install an FPV camera by simply connecting an AIO micro FPV camera to a 5V output (like the polulu for example). 
 *Make sure your camera CAN connect to 5v.
 
+
+# ASSEMBLY
 Start by placing the ESP8266 in the bottom part of the base body of the Micro Tank.
 I prefer putting the USB facing backwards so it's easier to install the code afterwards
 
