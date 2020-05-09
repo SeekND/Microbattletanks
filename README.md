@@ -12,13 +12,13 @@ Internet/Local FPV micro IR Battle tanks
 The creation of this tank comes after the findings I got from creating the Carlandoo jeep.
 Instead of using any ESC, this project uses only two 9g servos for mobility.
 
-I;m using the same device as before, called ESP8266 that creates their own wifi network and an app called RemoteXY that allows you to connect to said ESP8266 AND even design your own graphical inferface.
+I'm using the same device as before, called ESP8266 that creates their own wifi network and an app called RemoteXY that allows you to connect to said ESP8266 AND even design your own graphical inferface.
 
 While studying this app I found it even is able to host a middle man server that your ESP connects to.
 This means that if you want to control your ESP via the internet you don't have to open up ports in your router, like you do with other apps.
 
 Unfortunately the 9g servos used only work with 4-5v so we need to add a polulu 5v boost to our project.
-If you wish to use more voltage in your batteries, just use a polulu that brinks down the voltage instead.
+If you wish to use more voltage in your batteries, just use a polulu that brings down the voltage instead.
 
 For your benefit I made two seperate codes, one for controlling the Micro Tank locally and one for controlling it over the internet.
 
