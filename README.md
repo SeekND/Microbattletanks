@@ -39,6 +39,7 @@ You will need the following electronic parts:
 - 2x 9g servos (you will have to modify these) > 
 - 1x IR receiver > https://www.banggood.com/10pcs-Universal-IR-Infrared-Receiver-Head-With-Iron-Shell-TL1838-VS1838B-1838-38Khz-p-1211280.html
 - 1x 940nm IR Infrared Diode (*just need the clear one*) > https://www.banggood.com/10pcs-5mm-940nm-IR-Infrared-Diode-Launch-Emitter-Receive-Receiver-LED-p-1099984.html
+- 1x 100 ohm resistor
 - 1s battery (recommend 200mha above battery) > 
 - battery connector (recommend mxcp connector) > https://www.dronejunkie.co.uk/mylipo-lead-and-socket-for-mcpxpw-type-lipos
 
@@ -78,7 +79,7 @@ Once the servos and the ESP8266 are in place you can start soldering in all the 
 * Extend 8cm with 28awg wire and connect right leg of the IR receiver (signal) to ESP8266 D5
 * Remove IR metalic cover for a better exposure of the receiver.
 
-* Extend 8cm with 28awg wire and connect longer leg of the IR led (+) to ESP8266 D2
+* Extend 8cm with 28awg wire and connect the longer leg of the IR led (+) to resistor and then ESP8266 D2
 * Extend 8cm with 28awg wire and connect shorter leg of the IR receiver (-) to ESP8266 GROUND closest to D2
 
 
