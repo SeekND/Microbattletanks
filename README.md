@@ -6,7 +6,7 @@
 Internet/Local FPV micro IR Battle tanks
 
 
-## See explanation video here: ## TBD
+## See video here: https://youtu.be/MYE3IbX7UP4?t=1202
 
 
 The creation of this tank comes after the findings I got from creating the Carlandoo jeep.
